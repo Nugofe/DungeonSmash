@@ -1,4 +1,4 @@
-# Ubisoft Mentorship Project
+# Dungeon Smash - Ubisoft Mentorship Project
 This project was developed during the **2023 Ubisoft Mentorship Program**. This README explains what the project is about, what were the tasks made, the lessons learned and the following steps 
 to improve the project if wanted.
 
